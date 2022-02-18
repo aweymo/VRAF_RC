@@ -253,7 +253,10 @@ page_sections:
   col_2:
     headline: ''
     slug: ''
-    content: ''
+    content: Midcentury wedding photos had very defined templates that the Richards
+      Studio catered to regardless of their clients or affiliated churches. That said,
+      the Japanese American weddings captured in the collection align most closely
+      to the material I hoped to promote with this grant project.
   col_3:
     headline: ''
     slug: ''
