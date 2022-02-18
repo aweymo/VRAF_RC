@@ -48,9 +48,9 @@ page_sections:
     alt_text: ''
 - template: hero-banner-w-image
   block: hero-2
-  background_image: "/uploads/2022/02/18/nv1-01.gif"
+  background_image: "/uploads/2022/02/18/nv1.gif"
   image:
-    image: "/uploads/2022/02/18/nv2-01.gif"
+    image: ''
     alt_text: ''
   headline: ''
   content: ''
@@ -58,13 +58,6 @@ page_sections:
     enabled: false
     url: ''
     button_text: ''
-- template: full-width-media-element
-  block: media-1
-  image: "/uploads/2022/02/18/nv1-01.gif"
-  caption: Visualization of items which had already been digitized in the collection.
-    Different colored nodes represent the prefixes used by the studio to organize
-    records.  https://aweymo.gitHub.io/RC.3/
-  slug: vis1
 - template: content-feature
   block: feature-1
   media_alignment: Right
