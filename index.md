@@ -319,5 +319,28 @@ page_sections:
     wedding photo with the couple posing inside of a car with a pinwheel spinner on
     the antenna.<br><br>RSS-111<em><br></em>Overhead shot of the Boitono-Ennis wedding
     showing bride and groom interacting with attendees on a street with bridesmaids.<em><br><br><br></em>
+- template: 3-column-text
+  block: three-column-1
+  col_1:
+    content: All images courtesy of the Tacoma Public Library<br><br><strong>In order:</strong><br><br><em>RS0-25<br></em>Panorama
+      of group of people at a lake with a man in the background climbing a tree.<em><br><br>RSS-51<br></em>Float
+      for Tacoma Public Utilities with Daffodil Queen waving at the 1954 Daffodil
+      Parade. A Puyallup Furniture sign can be seen in the background.<br><em><br>J-156-38</em><br>African
+      American laborer seen in front of what appears to be a large, sealable container
+      for treating lumber with arsenic to prevent rot.<br><em><br>RSO-28<br></em>Native
+      American and European Americans posing at Owens beach in informal as well as
+      traditional dress.<em><br><br>RSO-40<br></em>Overhead Shot of the members of
+      the Puyallup Valley Japanese Americans Club arm in arms with Caucasian soldiers
+      in an auditorium as the Brad Banner band plays on stage.
+    headline: ''
+    slug: ''
+  col_2:
+    headline: ''
+    slug: ''
+    content: ''
+  col_3:
+    headline: ''
+    slug: ''
+    content: ''
 
 ---
