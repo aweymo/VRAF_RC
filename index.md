@@ -206,5 +206,15 @@ page_sections:
       The photo captures the relationship of the Japanese American community and their
       embeddedness within the US military and the Puget Sound before WWII and later
       incarceration.
+- template: 2-column-media-element
+  block: media-2
+  image_1:
+    image: "/uploads/2022/02/18/rss-03-01.gif"
+    caption: 'RSS-03 Unidentified float in the 1956 Daffodil Parade on Pacific Avenue
+      with North Pacific Plywood Inc. building and water tower in the background.
+      Courtesy of the Tacoma Public Library '
+  image_2:
+    image: ''
+    caption: ''
 
 ---
