@@ -304,5 +304,17 @@ page_sections:
   image_2:
     image: "/uploads/2022/02/18/rss-094-01.gif"
     caption: ''
+- template: hero-banner-w-image
+  block: hero-2
+  background_image: "/uploads/2022/02/18/rso-17-1.jpeg"
+  headline: "<strong>Andrew Weymouth<br>2021-2022 <br>VRAF Grant Work</strong>"
+  image:
+    image: ''
+    alt_text: ''
+  content: ''
+  cta:
+    enabled: false
+    url: ''
+    button_text: ''
 
 ---
