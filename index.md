@@ -6,7 +6,7 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   slug: features
-  headline: Andrew Weymouth<br>2021-2022 VRAF Grant Project
+  headline: "<strong>Andrew Weymouth<br>2021-2022 VRAF Grant Project</strong>"
   content: ''
   cta:
     enabled: false
