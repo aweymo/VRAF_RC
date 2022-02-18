@@ -45,7 +45,7 @@ page_sections:
     that had been digitized, as well as visualizations of the largest gaps in the
     collection, to pinpoint where to investigate. '
   slug: vis.t
-  headline: ''
+  headline: Network Visualizations
   media:
     image: "/uploads/2022/02/18/nv1-01.gif"
     alt_text: Visualization of items which had already been digitized in the collection.
