@@ -74,10 +74,7 @@ page_sections:
   headline: ''
 - template: hero-banner-w-image
   block: hero-2
-  headline: Considering the hurdles encountered in this project, we were still able
-    to make an exceptional impact in our original mission statement to surface "significant
-    cultural insights" from the collection that would better represent the history
-    of Tacoma's BIPOC community.
+  headline: "<strong>Considering the hurdles encountered in this project, </strong>"
   content: we were still able to make an exceptional impact in our original mission
     statement to surface "significant cultural insights" from the collection that
     would better represent the history of Tacoma's BIPOC community.<br><br>Of the
