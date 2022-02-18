@@ -29,7 +29,7 @@ page_sections:
     digitization efforts were scattered, archiving practices were inconsistent, and
     the inherent nature of Richards' practice created a large amount of material which
     provided little contextual information for potential users.
-  headline: "<strong>In September of 2021,</strong>"
+  headline: "<strong>In September 2021,</strong>"
   background_image: ''
   image:
     image: ''
