@@ -87,13 +87,6 @@ page_sections:
     enabled: false
     url: ''
     button_text: ''
-- template: detail-content
-  block: text-1
-  headline: Impact
-  content: <p><strong>Considering the hurdles encountered in this project, we were
-    still able to make an exceptional impact in our original mission statement to
-    surface "significant cultural insights" from the collection that would better
-    represent the history of Tacoma's BIPOC community.</strong></p>
 - template: 3-column-text
   block: three-column-1
   col_1:
@@ -110,25 +103,6 @@ page_sections:
   col_3:
     headline: ''
     slug: I.3
-    content: That said, the significance of these photos extend beyond the backgrounds
-      of the people occupying the frame and tell a much broader story about the evolving
-      social fabric of Tacoma in the twentieth century.
-- template: 3-column-text
-  block: three-column-1
-  col_1:
-    headline: Impact
-    content: Of the 258 items which were selected to be arranged, digitized and described,
-      39 represented these communities.
-    slug: ''
-  col_2:
-    headline: ''
-    slug: ''
-    content: While this number feels minuscule in comparison with the relative size
-      of the collection, it represents a 60% increase in BIPOC representation from
-      the state of the collection when I began this work in September.
-  col_3:
-    headline: ''
-    slug: ''
     content: That said, the significance of these photos extend beyond the backgrounds
       of the people occupying the frame and tell a much broader story about the evolving
       social fabric of Tacoma in the twentieth century.
