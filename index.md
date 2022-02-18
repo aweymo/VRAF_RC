@@ -118,6 +118,32 @@ page_sections:
     enabled: false
     url: ''
     button_text: ''
+- template: 2-column-text
+  block: two-column-1
+  col_1:
+    content: These themes of outreach are plain in perhaps the most historically significant
+      photograph I discovered in the collection, and the only item which included
+      an archival description written by Bob Richards. The note adhered onto the back
+      of RSO-40 in type-written paper begins:<br><br>"Marching forward, arm in arm
+      with their fellow young Americans are girls of the Tacoma and Puyallup Valley
+      Japanese American Citizens League, a substantial part of the national Nisei
+      soldiers and white boys of the same companies, at the wind-up of the grand march
+      as they danced in Tacoma's Odd Fellows Hall. Americans all -- and no doubt of
+      it."
+    headline: ''
+    slug: ''
+  col_2:
+    headline: ''
+    slug: ''
+    content: This photo, taken two months before the Pearl Harbor attacks, documents
+      an event the Puyallup Valley Chapter of the Japanese American Citizens League
+      hosted in support of National Defense Week to help unify efforts between the
+      250 Nisei (second generation) soldiers active at the Fort Lewis Army base and
+      Caucasian soldiers. The evening included an informal dinner with Issei (first
+      generation) family members, dancing and singing the American national anthem.
+      The photo captures the relationship of the Japanese American community and their
+      embeddedness within the US military and the Puget Sound before WWII and later
+      incarceration.
 - template: 3-column-text
   block: three-column-1
   col_1:
