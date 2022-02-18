@@ -60,32 +60,6 @@ page_sections:
     content: I was able to determine the pockets were generally duplicate photos of
       an item which had already been digitized, or an item which held little contextual
       value for most patrons.
-- template: content-feature
-  block: feature-1
-  media_alignment: Right
-  content: 'Determining this process involved creating visualizations of the items
-    that had been digitized, as well as visualizations of the largest gaps in the
-    collection, to pinpoint where to investigate. '
-  slug: vis.1
-  headline: ''
-  media:
-    image: "/uploads/2022/02/18/vis-1.jpeg"
-    alt_text: Visualization of items which had already been digitized in the collection.
-      Different colored nodes represent the prefixes used by the studio to organize
-      records.
-- template: content-feature
-  block: feature-1
-  media_alignment: Left
-  slug: vis.2
-  content: Using these guides, I was able to determine the pockets were generally
-    duplicate photos of an item which had already been digitized, or an item which
-    held little contextual value for most patrons.
-  media:
-    image: "/uploads/2022/02/18/vis-2.jpeg"
-    alt_text: Visualization of undigitized gaps in the collection. Colors represent
-      different decades and size of the nodes illustrates the number of items in the
-      gap.
-  headline: ''
 - template: detail-content
   block: text-1
   content: <p>To explore these interactive network visualizations:</p><p></p><p><a
