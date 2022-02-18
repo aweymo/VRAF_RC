@@ -129,40 +129,14 @@ page_sections:
       that might have resulted in legal repercussions, it's unlikely that the Richards'
       Studio photographers would be using them in the extensive marketing photos which
       they produced for industrial firms during this period.
-- template: content-feature
-  block: feature-1
-  media_alignment: Right
-  slug: J-156-38
-  content: the only picture of an African American laborer I was able to locate in
-    the entire collection, portrays a worker securing lumber into a vault where it
-    will be treated with arsenic to prevent rot. Even considering the early state
-    of workplace safety in 1940, this photo illustrates how African American laborers
-    were regarded in midcentury Tacoma, and may also provide some insight into the
-    scarcity of representation within the Richards' collection.
-  media:
-    image: ''
-    alt_text: ''
-  headline: J-156-38,
-- template: content-feature
-  block: feature-1
-  media_alignment: Left
-  slug: RSO-052
-  media:
-    image: "/uploads/2022/02/18/rso-052-1.jpeg"
-    alt_text: ''
-  headline: ''
-  content: If African American workers were consistently given dangerous positions
-    that might have resulted in legal repercussions, it's unlikely that the Richards'
-    Studio photographers would be using them in the extensive marketing photos which
-    they produced for industrial firms during this period.
 - template: hero-banner-w-image
   block: hero-2
   background_image: "/uploads/2022/02/18/rso-28-1.jpeg"
-  headline: "<strong>RSO-28</strong>"
+  headline: ''
   image:
     image: ''
     alt_text: ''
-  content: ''
+  content: "<strong>RSO-28</strong>"
   cta:
     enabled: false
     url: ''
