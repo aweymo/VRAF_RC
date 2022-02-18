@@ -51,6 +51,19 @@ page_sections:
     alt_text: Visualization of items which had already been digitized in the collection.
       Different colored nodes represent the prefixes used by the studio to organize
       records.
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  slug: vis.2
+  content: Using these guides, I was able to determine the pockets were generally
+    duplicate photos of an item which had already been digitized, or an item which
+    held little contextual value for most patrons.
+  media:
+    image: "/uploads/2022/02/18/nv2-01.gif"
+    alt_text: Visualization of undigitized gaps in the collection. Colors represent
+      different decades and size of the nodes illustrates the number of items in the
+      gap.
+  headline: ''
 - template: 2-column-media-element
   block: media-2
   image_1:
