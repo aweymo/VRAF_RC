@@ -291,6 +291,33 @@ page_sections:
     button_text: ''
 - template: simple-footer
   block: footer-1
-  content: All images courtesy of the Tacoma Public Library<br><br><em>RS0-25<br><br>RSS-51<br><br>J-156-38<br><br>RSO-28<br><br>RSO-40<br><br>RSS-57<br><br>RSS-03<br><br>RSS-12<br><br>RSS-126<br><br></em>RSS-094<br><br>RSS-115<br><br>RSS-066<br><br>RSS-094<br><br>RSS-111<em><br><br><br><br></em>
+  content: All images courtesy of the Tacoma Public Library<br><br><strong>In order:</strong><br><br><em>RS0-25<br></em>Panorama
+    of group of people at a lake with a man in the background climbing a tree.<em><br><br>RSS-51<br></em>Float
+    for Tacoma Public Utilities with Daffodil Queen waving at the 1954 Daffodil Parade.
+    A Puyallup Furniture sign can be seen in the background.<br><em><br>J-156-38</em><br>African
+    American laborer seen in front of what appears to be a large, sealable container
+    for treating lumber with arsenic to prevent rot.<br><em><br>RSO-28<br></em>Native
+    American and European Americans posing at Owens beach in informal as well as traditional
+    dress.<em><br><br>RSO-40<br></em>Overhead Shot of the members of the Puyallup
+    Valley Japanese Americans Club arm in arms with Caucasian soldiers in an auditorium
+    as the Brad Banner band plays on stage.<em><br><br>RSS-57<br></em>Float for Pacific
+    Lutheran College with participants smiling below a representation of palm trees
+    at the 1954 Daffodil Parade.<em><br><br>RSS-03<br></em>Unidentified float in the
+    1956 Daffodil Parade on Pacific Avenue with North Pacific Plywood Inc. building
+    and water tower in the background. The float depicts a mountain made out of daffodils,
+    a sheet for the snowcap and green crepe paper grass. There is a Paul Bunyan character
+    skiing down the mountain with a beard and a red cap.<em><br><br>RSS-12<br></em>An
+    unidentified float carrying five waving people in swim suits in the 1956 Daffodil
+    Parade on Pacific Avenue with North Pacific Plywood Inc. building and water tower
+    in the background.<em><br><br>RSS-126<br></em>Bride and child at Yoshioka-Mizutani
+    wedding holding floral arrangements. Display of bananas, apples and oranges can
+    be seen in background.<em><br><br></em>RSS-094<br>Lyons-Anderson wedding photo
+    with the couple posing inside of a car with a pinwheel spinner on the antenna.<br><br>RSS-115<br>Yasuda-Miyamoto
+    wedding photo of the couple inside of a vehicle with plaid interior seating.<br><br>RSS-066<br>Paulson-Burns
+    wedding photo with attendees gathered around a table holding large punch bowls
+    and kransekake topped with Finnish and American flags.<br><br>RSS-094<br>Lyons-Anderson
+    wedding photo with the couple posing inside of a car with a pinwheel spinner on
+    the antenna.<br><br>RSS-111<em><br></em>Overhead shot of the Boitono-Ennis wedding
+    showing bride and groom interacting with attendees on a street with bridesmaids.<em><br><br><br></em>
 
 ---
