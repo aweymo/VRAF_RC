@@ -242,5 +242,21 @@ page_sections:
   image_2:
     image: "/uploads/2022/02/18/rss-115-01.gif"
     caption: RSS-115 Yasuda-Miyamoto Wedding. Courtesy of the Tacoma Public Library
+- template: 3-column-text
+  block: three-column-1
+  col_1:
+    content: Finally, I am so happy that I pursued the Kodachrome 3D wedding materials
+      in the Richards Collection. I was reluctant to look into it for the same reasons
+      as the Richards yearbook photos; uniformity is the primary intention.
+    headline: ''
+    slug: ''
+  col_2:
+    headline: ''
+    slug: ''
+    content: ''
+  col_3:
+    headline: ''
+    slug: ''
+    content: ''
 
 ---
