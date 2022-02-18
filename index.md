@@ -50,7 +50,9 @@ page_sections:
   headline: ''
   media:
     image: "/uploads/2022/02/18/nv1-01.gif"
-    alt_text: ''
+    alt_text: Visualization of items which had already been digitized in the collection.
+      Different colored nodes represent the prefixes used by the studio to organize
+      records.
 - template: 2-column-media-element
   block: media-2
   image_1:
