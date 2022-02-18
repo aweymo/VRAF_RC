@@ -68,8 +68,11 @@ page_sections:
       different decades and size of the nodes illustrates the number of items in the
       gap. https://aweymo.gitHub.io/gaps.6/#
   image_2:
-    image: ''
-    caption: ''
+    image: "/uploads/2022/02/18/nv3-01.gif"
+    caption: " (following page) Visualization of the state of BIPOC representation
+      in the collection at the start of the project. Nodes represent African American,
+      Native American, Japanese American and ethnic communities and are arranged by
+      date and address. https://aweymo.github.io/Rep.Network.1/"
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in Canada
