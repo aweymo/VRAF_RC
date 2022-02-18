@@ -64,18 +64,6 @@ page_sections:
       title="Digitized Items">Digitized Items</a><br><a href="https://aweymo.gitHub.io/gaps.6/#"
       title="Collection Gaps">Collection Gaps</a><br><a href="https://aweymo.github.io/Rep.Network.1/"
       title="BIPOC Representation Map">BIPOC Representation Map</a>
-- template: detail-content
-  block: text-1
-  content: <p>Determining this process involved creating visualizations of the items
-    that had been digitized, as well as visualizations of the largest gaps in the
-    collection, to pinpoint where to investigate. Using these guides, I was able to
-    determine the pockets were generally duplicate photos of an item which had already
-    been digitized, or an item which held little contextual value for most patrons.</p><p>Explore
-    these interactive network visualizations:</p><p></p><p><a href=" https://aweymo.gitHub.io/RC.3/"
-    title="Digitized Items">Digitized Items</a></p><p></p><p><a href="https://aweymo.gitHub.io/gaps.6/#"
-    title="Collection Gaps">Collection Gaps</a></p><p></p><p><a href="https://aweymo.github.io/Rep.Network.1/"
-    title="BIPOC Representation Map">BIPOC Representation Map</a></p>
-  headline: ''
 - template: 3-column-text
   block: three-column-1
   col_1:
