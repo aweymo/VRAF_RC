@@ -274,7 +274,7 @@ page_sections:
     caption: ''
 - template: hero-banner-w-image
   block: hero-2
-  background_image: "/uploads/2022/02/18/rss-084-01.gif"
+  background_image: "/uploads/2022/02/18/rss-111-01.gif"
   image:
     image: ''
     alt_text: ''
