@@ -49,12 +49,11 @@ page_sections:
 - template: 2-column-text
   block: two-column-1
   col_1:
-    content: Determining this process involved creating visualizations of the items
-      that had been digitized, as well as visualizations of the largest gaps in the
-      collection, to pinpoint where to investigate. Using these guides, I was able
-      to determine the pockets were generally duplicate photos of an item which had
-      already been digitized, or an item which held little contextual value for most
-      patrons.
+    content: Determining this involved creating visualizations of the items that had
+      been digitized, as well as visualizations of the largest gaps in the collection,
+      to pinpoint where to investigate. Using these guides, I was able to determine
+      the pockets were generally duplicate photos of an item which had already been
+      digitized, or an item which held little contextual value for most patrons.
     headline: ''
     slug: ''
   col_2:
