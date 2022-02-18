@@ -64,6 +64,14 @@ page_sections:
       different decades and size of the nodes illustrates the number of items in the
       gap.
   headline: ''
+- template: 1-column-text
+  block: one-column-1
+  content: To explore these interactive network visualizations:<br><br><a href=" https://aweymo.gitHub.io/RC.3/"
+    title="Digitized Items">Digitized Items</a><br><br><a href="https://aweymo.gitHub.io/gaps.6/#"
+    title="Collection Gaps">Collection Gaps</a><br><br><a href="https://aweymo.github.io/Rep.Network.1/"
+    title="BIPOC Representation Map">BIPOC Representation Map</a><br><br><br><br>
+  slug: links
+  headline: ''
 - template: detail-content
   block: text-1
   content: '<p>To explore these interactive network visualizations: </p><p><a href="
