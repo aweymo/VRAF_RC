@@ -274,6 +274,14 @@ page_sections:
     and hopefully contributing over time to the greater Tacoma community.
   headline: ''
   slug: ''
+- template: 2-column-media-element
+  block: media-2
+  image_1:
+    image: "/uploads/2022/02/18/rss-066-01.gif"
+    caption: ''
+  image_2:
+    image: "/uploads/2022/02/18/rss-111-01.gif"
+    caption: ''
 - template: hero-banner-w-image
   block: hero-2
   background_image: "/uploads/2022/02/18/rss-111-01.gif"
