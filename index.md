@@ -187,7 +187,7 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   headline: "<strong>Kodachrome Stereo Transparencies</strong>"
-  background_image: ''
+  background_image: "/uploads/2022/02/18/rss-057-01.gif"
   image:
     image: ''
     alt_text: ''
