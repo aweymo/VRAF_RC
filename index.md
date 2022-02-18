@@ -49,9 +49,9 @@ page_sections:
 - template: 2-column-text
   block: two-column-1
   col_1:
-    content: Determining this process involved creating visualizations of the items
-      that had been digitized, as well as visualizations of the largest gaps in the
-      collection, to pinpoint where to investigate. Using these guides,
+    content: Determining this involved creating visualizations of the items that had
+      been digitized, as well as visualizations of the largest gaps in the collection,
+      to pinpoint where to investigate. Using these guides,
     headline: ''
     slug: ''
   col_2:
