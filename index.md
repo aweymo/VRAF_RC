@@ -38,19 +38,6 @@ page_sections:
     enabled: false
     url: ''
     button_text: ''
-- template: content-feature
-  block: feature-1
-  media_alignment: Right
-  content: Through a collaborative effort with Northwest Room librarian and project
-    sponsor Spencer Bowman, we ultimately found that the collection was not so much
-    "dark," as past digitization efforts were scattered, archiving practices were
-    inconsistent, and the inherent nature of Richards' practice created a large amount
-    of material which provided little contextual information for potential users.
-  headline: ''
-  slug: intro
-  media:
-    image: ''
-    alt_text: ''
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2022/02/18/nv1-01.gif"
@@ -69,7 +56,7 @@ page_sections:
   slug: vis.t
   headline: ''
   media:
-    image: ''
+    image: "/uploads/2022/02/18/nv1-01.gif"
     alt_text: ''
 - template: 2-column-media-element
   block: media-2
