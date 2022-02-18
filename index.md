@@ -7,18 +7,13 @@ page_sections:
   block: hero-2
   slug: features
   headline: Andrew Weymouth<br>2021-2022 VRAF Grant Project
-  content: In September of 2021, I was awarded a grant from the Visual Resources Association
-    Foundation to partner with the Tacoma Public Library's Northwest Room, to help
-    digitize the 500,000+ item Richards Collection, a repository of the commercial
-    photography studio active in the Puget Sound <span class="s1">from</span> 1921
-    to 1980. The goal of the grant was to help digitize what was regarded as a "dark
-    archive," and focus on better representing Tacoma's historical BIPOC community.
+  content: ''
   cta:
     enabled: false
     url: https://github.com/forestryio/ubuild-jekyll
     button_text: ''
   image:
-    image: "/uploads/2022/02/18/rso-25-1.jpeg"
+    image: ''
     alt_text: ''
   background_image: "/uploads/2022/02/18/rso-25-1.jpeg"
 - template: full-width-media-element
