@@ -67,10 +67,10 @@ page_sections:
 - template: 3-column-text
   block: three-column-1
   col_1:
-    headline: Impact
+    headline: 'Impact:'
     content: "<strong>Of the 258 items which were selected to be arranged, digitized
       and described, 39 represented these communities.</strong>"
-    slug: I.1
+    slug: ''
   col_2:
     headline: ''
     slug: I.2
@@ -121,7 +121,7 @@ page_sections:
 - template: 3-column-text
   block: three-column-1
   col_1:
-    slug: RSO-28.1
+    slug: ''
     content: Approaching this project, I had assumed that the proximity of Tacoma
       and the neighboring Puyallup Reservation would make some amount of visual documentation
       inevitable. What I found was that the Richards Studio produced many more examples
