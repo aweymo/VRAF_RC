@@ -143,7 +143,7 @@ page_sections:
   headline: J-156-38,
 - template: content-feature
   block: feature-1
-  media_alignment: Right
+  media_alignment: Left
   slug: RSO-052
   media:
     image: "/uploads/2022/02/18/rso-052-1.jpeg"
@@ -151,6 +151,9 @@ page_sections:
       Ft. Lewis, lakeside with large, inflatable rafts. Courtesy of the Tacoma Public
       Library
   headline: ''
-  content: ''
+  content: If African American workers were consistently given dangerous positions
+    that might have resulted in legal repercussions, it's unlikely that the Richards'
+    Studio photographers would be using them in the extensive marketing photos which
+    they produced for industrial firms during this period.
 
 ---
