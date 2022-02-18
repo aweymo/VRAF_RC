@@ -300,7 +300,7 @@ page_sections:
       for treating lumber with arsenic to prevent rot.<br><em><br>RSO-28<br></em>Native
       American and European Americans posing at Owens beach in informal as well as
       traditional dress."
-    headline: Photo References
+    headline: ''
     slug: ''
   col_2:
     headline: ''
