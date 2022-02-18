@@ -47,6 +47,19 @@ page_sections:
     Different colored nodes represent the prefixes used by the studio to organize
     records.  https://aweymo.gitHub.io/RC.3/
   slug: vis1
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  content: Determining this process involved creating visualizations of the items
+    that had been digitized, as well as visualizations of the largest gaps in the
+    collection, to pinpoint where to investigate. Using these guides, I was able to
+    determine the pockets were generally duplicate photos of an item which had already
+    been digitized, or an item which held little contextual value for most patrons.
+  headline: ''
+  slug: ''
+  media:
+    image: ''
+    alt_text: ''
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in Canada
