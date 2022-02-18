@@ -59,7 +59,7 @@ page_sections:
     duplicate photos of an item which had already been digitized, or an item which
     held little contextual value for most patrons.
   media:
-    image: "/uploads/2022/02/18/static-2.jpeg"
+    image: "/uploads/2022/02/18/vis-2.jpeg"
     alt_text: Visualization of undigitized gaps in the collection. Colors represent
       different decades and size of the nodes illustrates the number of items in the
       gap.
