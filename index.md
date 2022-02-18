@@ -240,7 +240,7 @@ page_sections:
     image: "/uploads/2022/02/18/rss-061-01.gif"
     caption: RSS-094 Saraki-Sagami wedding. Courtesy of the Tacoma Public Library
   image_2:
-    image: ''
-    caption: ''
+    image: "/uploads/2022/02/18/rss-115-01.gif"
+    caption: RSS-115 Yasuda-Miyamoto Wedding. Courtesy of the Tacoma Public Library
 
 ---
