@@ -119,6 +119,11 @@ page_sections:
     content: That said, the significance of these photos extend beyond the backgrounds
       of the people occupying the frame and tell a much broader story about the evolving
       social fabric of Tacoma in the twentieth century.
+- template: full-width-media-element
+  block: media-1
+  image: "/uploads/2022/02/18/j-156-38032-1.jpeg"
+  caption: J-156-38 Courtesy of the Tacoma Public Library
+  slug: J-156-38
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in Canada
