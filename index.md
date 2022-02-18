@@ -74,11 +74,11 @@ page_sections:
   headline: ''
 - template: detail-content
   block: text-1
-  content: '<p>To explore these interactive network visualizations: </p><p><a href="
-    https://aweymo.gitHub.io/RC.3/" title="Digitized Items">Digitized Items</a></p><p><a
-    href="https://aweymo.gitHub.io/gaps.6/#" title="Collection Gaps">Collection Gaps</a></p><p><a
+  content: <p>To explore these interactive network visualizations:</p><p></p><p><a
+    href=" https://aweymo.gitHub.io/RC.3/" title="Digitized Items">Digitized Items</a></p><p></p><p><a
+    href="https://aweymo.gitHub.io/gaps.6/#" title="Collection Gaps">Collection Gaps</a></p><p></p><p><a
     href="https://aweymo.github.io/Rep.Network.1/" title="BIPOC Representation Map">BIPOC
-    Representation Map</a></p>'
+    Representation Map</a></p>
   headline: ''
 - template: hero-banner-w-image
   block: hero-2
