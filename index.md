@@ -200,9 +200,7 @@ page_sections:
   block: media-2
   image_1:
     image: "/uploads/2022/02/18/rss-03-01.gif"
-    caption: 'RSS-03 Unidentified float in the 1956 Daffodil Parade on Pacific Avenue
-      with North Pacific Plywood Inc. building and water tower in the background.
-      Courtesy of the Tacoma Public Library '
+    caption: ''
   image_2:
     image: "/uploads/2022/02/18/rss-12-01.gif"
     caption: RSS-51 Tacoma Public Utilities float with Daffodil Queen waving at the
@@ -238,10 +236,10 @@ page_sections:
   block: media-2
   image_1:
     image: "/uploads/2022/02/18/rss-061-01.gif"
-    caption: RSS-094 Saraki-Sagami wedding. Courtesy of the Tacoma Public Library
+    caption: ''
   image_2:
     image: "/uploads/2022/02/18/rss-115-01.gif"
-    caption: RSS-115 Yasuda-Miyamoto Wedding. Courtesy of the Tacoma Public Library
+    caption: ''
 - template: 3-column-text
   block: three-column-1
   col_1:
