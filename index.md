@@ -72,6 +72,21 @@ page_sections:
     href="https://aweymo.github.io/Rep.Network.1/" title="BIPOC Representation Map">BIPOC
     Representation Map</a></p>
   headline: ''
+- template: 3-column-text
+  block: three-column-1
+  col_1:
+    headline: Impact
+    content: Of the 258 items which were selected to be arranged, digitized and described,
+      39 represented these communities.
+    slug: I.1
+  col_2:
+    headline: ''
+    slug: ''
+    content: ''
+  col_3:
+    headline: ''
+    slug: ''
+    content: ''
 - template: hero-banner-w-image
   block: hero-2
   headline: "<strong>Considering</strong>"
