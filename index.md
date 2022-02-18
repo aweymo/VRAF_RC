@@ -332,7 +332,7 @@ page_sections:
       traditional dress.<em><br><br>RSO-40<br></em>Overhead Shot of the members of
       the Puyallup Valley Japanese Americans Club arm in arms with Caucasian soldiers
       in an auditorium as the Brad Banner band plays on stage."
-    headline: ''
+    headline: Photo References
     slug: ''
   col_2:
     headline: ''
