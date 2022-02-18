@@ -46,6 +46,18 @@ page_sections:
   image_2:
     image: "/uploads/2022/02/18/vis-2.jpeg"
     caption: ''
+- template: 2-column-text
+  block: two-column-1
+  col_1:
+    content: Determining this process involved creating visualizations of the items
+      that had been digitized, as well as visualizations of the largest gaps in the
+      collection, to pinpoint where to investigate. Using these guides,
+    headline: ''
+    slug: ''
+  col_2:
+    headline: ''
+    slug: ''
+    content: ''
 - template: content-feature
   block: feature-1
   media_alignment: Right
