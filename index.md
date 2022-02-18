@@ -40,6 +40,13 @@ page_sections:
   media:
     image: ''
     alt_text: ''
+- template: full-width-media-element
+  block: media-1
+  image: "/uploads/2022/02/18/nv1-01.gif"
+  caption: Visualization of items which had already been digitized in the collection.
+    Different colored nodes represent the prefixes used by the studio to organize
+    records.  https://aweymo.gitHub.io/RC.3/
+  slug: vis1
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in Canada
