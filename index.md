@@ -130,10 +130,8 @@ page_sections:
   media_alignment: Left
   slug: RSO-052
   media:
-    image: "/uploads/2022/02/18/rso-052-1.jpeg"
-    alt_text: RS0-052 Group of soldiers at an unidentified military base, possibly
-      Ft. Lewis, lakeside with large, inflatable rafts. Courtesy of the Tacoma Public
-      Library
+    image: ''
+    alt_text: ''
   headline: ''
   content: If African American workers were consistently given dangerous positions
     that might have resulted in legal repercussions, it's unlikely that the Richards'
