@@ -73,24 +73,13 @@ page_sections:
       in the collection at the start of the project. Nodes represent African American,
       Native American, Japanese American and ethnic communities and are arranged by
       date and address. https://aweymo.github.io/Rep.Network.1/"
-- template: detail-content
-  block: text-1
-  headline: Impact
-  content: <p>Considering the hurdles encountered in this project, we were still able
-    to make an exceptional impact in our original mission statement to surface "significant
-    cultural insights" from the collection that would better represent the history
-    of Tacoma's BIPOC community.</p>
 - template: hero-banner-w-image
   block: hero-2
-  content: Of the 258 items which were selected to be arranged, digitized and described,
-    39 represented these communities. <br><br>While this number feels minuscule in
-    comparison with the relative size of the collection, it represents a 60% increase
-    in BIPOC representation from the state of the collection when I began this work
-    in September.<br><br>That said, the significance of these photos extend beyond
-    the backgrounds of the people occupying the frame and tell a much broader story
-    about the evolving social fabric of Tacoma in the twentieth century.
+  content: Considering the hurdles encountered in this project, we were still able
+    to make an exceptional impact in our original mission statement to surface "significant
+    cultural insights" from the collection that would better represent the history
+    of Tacoma's BIPOC community.
   headline: ''
-  background_image: "/uploads/2022/02/18/rso-052-1.jpeg"
   image:
     image: "/uploads/2022/02/18/rso-052-1.jpeg"
     alt_text: RS0-052 Group of soldiers at an unidentified military base, possibly
@@ -100,6 +89,14 @@ page_sections:
     enabled: false
     url: ''
     button_text: ''
+  background_image: ''
+- template: detail-content
+  block: text-1
+  headline: Impact
+  content: <p>Considering the hurdles encountered in this project, we were still able
+    to make an exceptional impact in our original mission statement to surface "significant
+    cultural insights" from the collection that would better represent the history
+    of Tacoma's BIPOC community.</p>
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in Canada
