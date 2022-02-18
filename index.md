@@ -141,5 +141,16 @@ page_sections:
     image: "/uploads/2022/02/18/j-156-38032-1.jpeg"
     alt_text: J-156-38 Courtesy of the Tacoma Public Library
   headline: J-156-38,
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  slug: RSO-052
+  media:
+    image: "/uploads/2022/02/18/rso-052-1.jpeg"
+    alt_text: RS0-052 Group of soldiers at an unidentified military base, possibly
+      Ft. Lewis, lakeside with large, inflatable rafts. Courtesy of the Tacoma Public
+      Library
+  headline: ''
+  content: ''
 
 ---
