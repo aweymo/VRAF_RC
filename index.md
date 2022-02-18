@@ -47,7 +47,7 @@ page_sections:
   slug: vis.t
   headline: Network Visualizations
   media:
-    image: "/uploads/2022/02/18/vis-1.jpeg"
+    image: ''
     alt_text: Visualization of items which had already been digitized in the collection.
       Different colored nodes represent the prefixes used by the studio to organize
       records.
