@@ -68,21 +68,6 @@ page_sections:
     href="https://aweymo.github.io/Rep.Network.1/" title="BIPOC Representation Map">BIPOC
     Representation Map</a></p>
   headline: ''
-- template: hero-banner-w-image
-  block: hero-2
-  headline: "<strong>Considering</strong>"
-  content: the hurdles encountered in this project<strong> </strong>we were still
-    able to make an exceptional impact in our original mission statement to surface
-    "significant cultural insights" from the collection that would better represent
-    the history of Tacoma's BIPOC community.
-  background_image: ''
-  image:
-    image: ''
-    alt_text: ''
-  cta:
-    enabled: false
-    url: ''
-    button_text: ''
 - template: 3-column-text
   block: three-column-1
   col_1:
