@@ -122,8 +122,8 @@ page_sections:
     were regarded in midcentury Tacoma, and may also provide some insight into the
     scarcity of representation within the Richards' collection.
   media:
-    image: "/uploads/2022/02/18/j-156-38032-1.jpeg"
-    alt_text: J-156-38 Courtesy of the Tacoma Public Library
+    image: ''
+    alt_text: ''
   headline: J-156-38,
 - template: content-feature
   block: feature-1
