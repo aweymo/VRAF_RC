@@ -62,8 +62,8 @@ page_sections:
       contextual value for most patrons.
 - template: detail-content
   block: text-1
-  content: <p>To explore these interactive network visualizations:</p><p></p><p><a
-    href=" https://aweymo.gitHub.io/RC.3/" title="Digitized Items">Digitized Items</a></p><p></p><p><a
+  content: <p>Explore these interactive network visualizations:</p><p></p><p><a href="
+    https://aweymo.gitHub.io/RC.3/" title="Digitized Items">Digitized Items</a></p><p></p><p><a
     href="https://aweymo.gitHub.io/gaps.6/#" title="Collection Gaps">Collection Gaps</a></p><p></p><p><a
     href="https://aweymo.github.io/Rep.Network.1/" title="BIPOC Representation Map">BIPOC
     Representation Map</a></p>
