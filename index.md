@@ -335,6 +335,5 @@ page_sections:
       on the antenna.<br><br>RSS-111<em><br></em>Overhead shot of the Boitono-Ennis
       wedding showing bride and groom interacting with attendees on a street with
       bridesmaids.
-published: false
 
 ---
