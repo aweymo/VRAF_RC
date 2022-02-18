@@ -206,6 +206,18 @@ page_sections:
       The photo captures the relationship of the Japanese American community and their
       embeddedness within the US military and the Puget Sound before WWII and later
       incarceration.
+- template: hero-banner-w-image
+  block: hero-2
+  headline: "<strong>Kodachrome Stereo Transparencies</strong>"
+  background_image: ''
+  image:
+    image: ''
+    alt_text: ''
+  content: ''
+  cta:
+    enabled: false
+    url: ''
+    button_text: ''
 - template: 2-column-media-element
   block: media-2
   image_1:
