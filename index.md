@@ -135,8 +135,8 @@ page_sections:
   headline: ''
   image:
     image: ''
-    alt_text: ''
-  content: "<strong>RSO-28</strong>"
+    alt_text: RSO-28 Courtesy of the Tacoma Public Library
+  content: ''
   cta:
     enabled: false
     url: ''
