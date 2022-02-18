@@ -64,19 +64,14 @@ page_sections:
       different decades and size of the nodes illustrates the number of items in the
       gap.
   headline: ''
-- template: 2-column-media-element
-  block: media-2
-  image_1:
-    image: "/uploads/2022/02/18/nv2-01.gif"
-    caption: Visualization of undigitized gaps in the collection. Colors represent
-      different decades and size of the nodes illustrates the number of items in the
-      gap. https://aweymo.gitHub.io/gaps.6/#
-  image_2:
-    image: "/uploads/2022/02/18/nv3-01.gif"
-    caption: " (following page) Visualization of the state of BIPOC representation
-      in the collection at the start of the project. Nodes represent African American,
-      Native American, Japanese American and ethnic communities and are arranged by
-      date and address. https://aweymo.github.io/Rep.Network.1/"
+- template: detail-content
+  block: text-1
+  content: '<p>To explore these interactive network visualizations: </p><p><a href="
+    https://aweymo.gitHub.io/RC.3/" title="Digitized Items">Digitized Items</a></p><p><a
+    href="https://aweymo.gitHub.io/gaps.6/#" title="Collection Gaps">Collection Gaps</a></p><p><a
+    href="https://aweymo.github.io/Rep.Network.1/" title="BIPOC Representation Map">BIPOC
+    Representation Map</a></p>'
+  headline: ''
 - template: hero-banner-w-image
   block: hero-2
   content: ''
