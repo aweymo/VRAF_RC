@@ -217,5 +217,18 @@ page_sections:
     image: "/uploads/2022/02/18/rss-051-01.gif"
     caption: RSS-51 Tacoma Public Utilities float with Daffodil Queen waving at the
       1954 Daffodil Parade. Courtesy of the Tacoma Public Library
+- template: 2-column-text
+  block: two-column-1
+  col_1:
+    content: I made the most progress with unconventional photographic formats. These
+      included oversized panorama film prints, which Richards often used for group
+      photos, and Kodachrome Stereo Transparencies, which he used only briefly in
+      the mid-1950s to document weddings and public events.
+    headline: ''
+    slug: ''
+  col_2:
+    headline: ''
+    slug: ''
+    content: ''
 
 ---
