@@ -46,6 +46,18 @@ page_sections:
   media:
     image: ''
     alt_text: ''
+- template: hero-banner-w-image
+  block: hero-2
+  background_image: "/uploads/2022/02/18/nv1-01.gif"
+  image:
+    image: "/uploads/2022/02/18/nv2-01.gif"
+    alt_text: ''
+  headline: ''
+  content: ''
+  cta:
+    enabled: false
+    url: ''
+    button_text: ''
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2022/02/18/nv1-01.gif"
