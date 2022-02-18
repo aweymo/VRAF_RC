@@ -44,10 +44,10 @@ page_sections:
   content: 'Determining this process involved creating visualizations of the items
     that had been digitized, as well as visualizations of the largest gaps in the
     collection, to pinpoint where to investigate. '
-  slug: vis.t
+  slug: vis.1
   headline: Network Visualizations
   media:
-    image: ''
+    image: "/uploads/2022/02/18/vis-1.jpeg"
     alt_text: Visualization of items which had already been digitized in the collection.
       Different colored nodes represent the prefixes used by the studio to organize
       records.
