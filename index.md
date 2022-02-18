@@ -74,8 +74,8 @@ page_sections:
   headline: ''
 - template: hero-banner-w-image
   block: hero-2
-  content: ''
-  headline: "<strong>RS0-052</strong>"
+  content: "<strong>RS0-052</strong>"
+  headline: ''
   image:
     image: ''
     alt_text: ''
