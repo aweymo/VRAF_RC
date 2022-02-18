@@ -23,7 +23,12 @@ page_sections:
     500,000+ item Richards Collection, a repository of the commercial photography
     studio active in the Puget Sound <span class="s1">from</span> 1921 to 1980. The
     goal of the grant was to help digitize what was regarded as a "dark archive,"
-    and focus on better representing Tacoma's historical BIPOC community.
+    and focus on better representing Tacoma's historical BIPOC community.<br><br>Through
+    a collaborative effort with Northwest Room librarian and project sponsor Spencer
+    Bowman, we ultimately found that the collection was not so much "dark," as past
+    digitization efforts were scattered, archiving practices were inconsistent, and
+    the inherent nature of Richards' practice created a large amount of material which
+    provided little contextual information for potential users.
   headline: In September of 2021,
   background_image: ''
   image:
