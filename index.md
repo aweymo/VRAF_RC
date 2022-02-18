@@ -57,7 +57,9 @@ page_sections:
   col_2:
     headline: ''
     slug: ''
-    content: ''
+    content: I was able to determine the pockets were generally duplicate photos of
+      an item which had already been digitized, or an item which held little contextual
+      value for most patrons.
 - template: content-feature
   block: feature-1
   media_alignment: Right
