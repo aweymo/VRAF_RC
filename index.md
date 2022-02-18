@@ -165,5 +165,13 @@ page_sections:
       setting, mixed genders and diverse backgrounds of the group may help add nuance
       to our understanding of reconciliation efforts and the social mindset of fraternal
       organizations like the VFW in midcentury Tacoma.
+- template: 2-column-media-element
+  block: media-2
+  image_1:
+    image: "/uploads/2022/02/18/rso-039-1.jpeg"
+    caption: RSO-39 Courtesy of the Tacoma Public Library
+  image_2:
+    image: ''
+    caption: ''
 
 ---
