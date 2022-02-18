@@ -60,6 +60,16 @@ page_sections:
   media:
     image: ''
     alt_text: ''
+- template: 2-column-media-element
+  block: media-2
+  image_1:
+    image: "/uploads/2022/02/18/nv2-01.gif"
+    caption: Visualization of undigitized gaps in the collection. Colors represent
+      different decades and size of the nodes illustrates the number of items in the
+      gap. https://aweymo.gitHub.io/gaps.6/#
+  image_2:
+    image: ''
+    caption: ''
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in Canada
