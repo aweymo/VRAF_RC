@@ -72,8 +72,8 @@ page_sections:
   block: three-column-1
   col_1:
     headline: Impact
-    content: Of the 258 items which were selected to be arranged, digitized and described,
-      39 represented these communities.
+    content: "<strong>Of the 258 items which were selected to be arranged, digitized
+      and described, 39 represented these communities.</strong>"
     slug: I.1
   col_2:
     headline: ''
