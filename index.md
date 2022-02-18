@@ -260,6 +260,9 @@ page_sections:
   col_3:
     headline: ''
     slug: ''
-    content: ''
+    content: In contrast to previous examples, these photos are documenting a culture
+      independent from the context of struggle and racism. The formal dress, ornamental
+      arrangements and social ceremonies provide a unique insight into a resilient
+      Japanese American culture still thriving in the post-internment Puget Sound.
 
 ---
