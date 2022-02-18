@@ -190,7 +190,10 @@ page_sections:
       expressions ranging from cordial smiles to a respectful solemnity.
   col_3:
     headline: ''
-    slug: ''
-    content: ''
+    slug: RSO-28.3
+    content: Though this interpretation is vulnerable to my own projection, the public
+      setting, mixed genders and diverse backgrounds of the group may help add nuance
+      to our understanding of reconciliation efforts and the social mindset of fraternal
+      organizations like the VFW in midcentury Tacoma.
 
 ---
