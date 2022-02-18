@@ -235,7 +235,7 @@ page_sections:
   image:
     image: ''
     alt_text: ''
-  headline: ''
+  headline: "<strong>Wedding <br>Photos</strong>"
   content: ''
   cta:
     enabled: false
