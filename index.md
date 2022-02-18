@@ -51,7 +51,7 @@ page_sections:
   col_1:
     content: Determining this involved creating visualizations of the items that had
       been digitized, as well as visualizations of the largest gaps in the collection,
-      to pinpoint where to investigate. Using these guides,
+      to pinpoint where to investigate.
     headline: ''
     slug: ''
   col_2:
