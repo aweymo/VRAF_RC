@@ -203,8 +203,7 @@ page_sections:
     caption: ''
   image_2:
     image: "/uploads/2022/02/18/rss-12-01.gif"
-    caption: RSS-51 Tacoma Public Utilities float with Daffodil Queen waving at the
-      1954 Daffodil Parade. Courtesy of the Tacoma Public Library
+    caption: ''
 - template: 2-column-text
   block: two-column-1
   col_1:
