@@ -16,6 +16,23 @@ page_sections:
     image: ''
     alt_text: ''
   background_image: "/uploads/2022/02/18/rso-25-1.jpeg"
+- template: hero-banner-w-image
+  block: hero-2
+  content: I was awarded a grant from the Visual Resources Association Foundation
+    to partner with the Tacoma Public Library's Northwest Room, to help digitize the
+    500,000+ item Richards Collection, a repository of the commercial photography
+    studio active in the Puget Sound <span class="s1">from</span> 1921 to 1980. The
+    goal of the grant was to help digitize what was regarded as a "dark archive,"
+    and focus on better representing Tacoma's historical BIPOC community.
+  headline: In September of 2021,
+  background_image: ''
+  image:
+    image: ''
+    alt_text: ''
+  cta:
+    enabled: false
+    url: ''
+    button_text: ''
 - template: content-feature
   block: feature-1
   media_alignment: Right
