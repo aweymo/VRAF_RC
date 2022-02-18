@@ -81,8 +81,10 @@ page_sections:
     slug: I.1
   col_2:
     headline: ''
-    slug: ''
-    content: ''
+    slug: I.2
+    content: While this number feels minuscule in comparison with the relative size
+      of the collection, it represents a 60% increase in BIPOC representation from
+      the state of the collection when I began this work in September.
   col_3:
     headline: ''
     slug: ''
