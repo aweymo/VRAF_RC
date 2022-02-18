@@ -87,8 +87,10 @@ page_sections:
       the state of the collection when I began this work in September.
   col_3:
     headline: ''
-    slug: ''
-    content: ''
+    slug: I.3
+    content: That said, the significance of these photos extend beyond the backgrounds
+      of the people occupying the frame and tell a much broader story about the evolving
+      social fabric of Tacoma in the twentieth century.
 - template: hero-banner-w-image
   block: hero-2
   headline: "<strong>Considering</strong>"
