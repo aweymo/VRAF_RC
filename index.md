@@ -296,18 +296,10 @@ page_sections:
     been an incredibly special archive experience, and I am deeply indebted to the
     Visual Resources Association Foundation for connecting me with this institution,
     and hopefully contributing over time to the greater Tacoma community.
-- template: 2-column-media-element
-  block: media-2
-  image_1:
-    image: "/uploads/2022/02/18/rss-066-01.gif"
-    caption: ''
-  image_2:
-    image: "/uploads/2022/02/18/rss-094-01.gif"
-    caption: ''
 - template: hero-banner-w-image
   block: hero-2
   background_image: "/uploads/2022/02/18/rso-17-1.jpeg"
-  headline: "<strong>Andrew Weymouth<br>2021-2022 <br>VRAF Grant Work</strong>"
+  headline: ''
   image:
     image: ''
     alt_text: ''
