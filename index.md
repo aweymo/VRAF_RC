@@ -85,7 +85,7 @@ page_sections:
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2022/02/18/j-156-38032-1.jpeg"
-  caption: J-156-38 Courtesy of the Tacoma Public Library
+  caption: ''
   slug: J-156-38
 - template: 2-column-text
   block: two-column-1
