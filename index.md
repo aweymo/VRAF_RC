@@ -274,16 +274,6 @@ page_sections:
     and hopefully contributing over time to the greater Tacoma community.
   headline: ''
   slug: ''
-- template: 1-column-text
-  block: one-column-1
-  headline: ''
-  slug: ''
-  content: Reflecting on this project, I am grateful for the opportunity to interact
-    with the very talented and insightful staff of the Northwest Room. Being able
-    to learn from and collaborate with this group in person during the pandemic has
-    been an incredibly special archive experience, and I am deeply indebted to the
-    Visual Resources Association Foundation for connecting me with this institution,
-    and hopefully contributing over time to the greater Tacoma community.
 - template: hero-banner-w-image
   block: hero-2
   background_image: "/uploads/2022/02/18/rss-111-01.gif"
@@ -296,5 +286,23 @@ page_sections:
     enabled: false
     url: ''
     button_text: ''
+- template: 1-column-text
+  block: one-column-1
+  headline: ''
+  slug: ''
+  content: Reflecting on this project, I am grateful for the opportunity to interact
+    with the very talented and insightful staff of the Northwest Room. Being able
+    to learn from and collaborate with this group in person during the pandemic has
+    been an incredibly special archive experience, and I am deeply indebted to the
+    Visual Resources Association Foundation for connecting me with this institution,
+    and hopefully contributing over time to the greater Tacoma community.
+- template: 2-column-media-element
+  block: media-2
+  image_1:
+    image: "/uploads/2022/02/18/rss-066-01.gif"
+    caption: ''
+  image_2:
+    image: "/uploads/2022/02/18/rss-094-01.gif"
+    caption: ''
 
 ---
