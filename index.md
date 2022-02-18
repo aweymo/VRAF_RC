@@ -14,7 +14,8 @@ page_sections:
     button_text: ''
   image:
     image: ''
-    alt_text: ''
+    alt_text: RS0-25 Panorama of group of people at a lake with a man in the background
+      climbing a tree. Courtesy of the Tacoma Public Library
   background_image: "/uploads/2022/02/18/rso-25-1.jpeg"
 - template: hero-banner-w-image
   block: hero-2
