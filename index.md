@@ -103,5 +103,20 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in Canada
+- template: 3-column-text
+  block: three-column-1
+  col_1:
+    headline: Impact
+    content: Of the 258 items which were selected to be arranged, digitized and described,
+      39 represented these communities.
+    slug: ''
+  col_2:
+    headline: ''
+    slug: ''
+    content: ''
+  col_3:
+    headline: ''
+    slug: ''
+    content: ''
 
 ---
