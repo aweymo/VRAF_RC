@@ -221,8 +221,8 @@ page_sections:
   block: two-column-1
   col_1:
     content: I made the most progress with unconventional photographic formats. These
-      included oversized panorama film prints, which Richards often used for group
-      photos, and Kodachrome Stereo Transparencies, which he used only briefly in
+      included oversized panorama film prints, which the studio often used for group
+      photos, and Kodachrome Stereo Transparencies, which were used only briefly in
       the mid-1950s to document weddings and public events.
     headline: ''
     slug: ''
