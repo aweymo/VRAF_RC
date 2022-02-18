@@ -6,7 +6,7 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   slug: features
-  headline: "<strong>Andrew Weymouth<br>2021-2022 VRAF Grant Project</strong>"
+  headline: "<strong>Andrew Weymouth<br><br>2021-2022 VRAF Grant Project</strong>"
   content: ''
   cta:
     enabled: false
@@ -94,13 +94,10 @@ page_sections:
 - template: detail-content
   block: text-1
   headline: Impact
-  content: <p>Of the 258 items which were selected to be arranged, digitized and described,
-    39 represented these communities. </p><p></p><p>While this number feels minuscule
-    in comparison with the relative size of the collection, it represents a 60% increase
-    in BIPOC representation from the state of the collection when I began this work
-    in September.</p><p class="p1">That said, the significance of these photos extend
-    beyond the backgrounds of the people occupying the frame and tell a much broader
-    story about the evolving social fabric of Tacoma in the twentieth century.</p>
+  content: <p><strong>Considering the hurdles encountered in this project, we were
+    still able to make an exceptional impact in our original mission statement to
+    surface "significant cultural insights" from the collection that would better
+    represent the history of Tacoma's BIPOC community.</strong></p>
 - template: 3-column-text
   block: three-column-1
   col_1:
