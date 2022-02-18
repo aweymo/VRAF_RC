@@ -87,7 +87,7 @@ page_sections:
     of Tacoma's BIPOC community.
   headline: ''
   image:
-    image: "/uploads/2022/02/18/rso-052-1.jpeg"
+    image: ''
     alt_text: RS0-052 Group of soldiers at an unidentified military base, possibly
       Ft. Lewis, lakeside with large, inflatable rafts. Courtesy of the Tacoma Public
       Library
@@ -95,7 +95,7 @@ page_sections:
     enabled: false
     url: ''
     button_text: ''
-  background_image: ''
+  background_image: "/uploads/2022/02/18/rso-052-1.jpeg"
 - template: detail-content
   block: text-1
   headline: Impact
