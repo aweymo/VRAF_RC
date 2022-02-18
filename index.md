@@ -127,5 +127,19 @@ page_sections:
   image: "/uploads/2022/02/18/j-156-38032-1.jpeg"
   caption: J-156-38 Courtesy of the Tacoma Public Library
   slug: J-156-38
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  slug: J-156-38
+  content: J-156-38, the only picture of an African American laborer I was able to
+    locate in the entire collection, portrays a worker securing lumber into a vault
+    where it will be treated with arsenic to prevent rot. Even considering the early
+    state of workplace safety in 1940, this photo illustrates how African American
+    laborers were regarded in midcentury Tacoma, and may also provide some insight
+    into the scarcity of representation within the Richards' collection.
+  media:
+    image: "/uploads/2022/02/18/j-156-38032-1.jpeg"
+    alt_text: J-156-38 Courtesy of the Tacoma Public Library
+  headline: ''
 
 ---
