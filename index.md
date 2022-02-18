@@ -130,7 +130,7 @@ page_sections:
   media_alignment: Left
   slug: RSO-052
   media:
-    image: ''
+    image: "/uploads/2022/02/18/rso-052-1.jpeg"
     alt_text: ''
   headline: ''
   content: If African American workers were consistently given dangerous positions
