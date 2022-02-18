@@ -21,6 +21,12 @@ page_sections:
     image: "/uploads/2022/02/18/rso-25-1.jpeg"
     alt_text: ''
   background_image: "/uploads/2022/02/18/rso-25-1.jpeg"
+- template: full-width-media-element
+  block: media-1
+  image: "/uploads/2022/02/18/rso-25-1.jpeg"
+  caption: RS0-25 Panorama of group of people at a lake with a man in the background
+    climbing a tree. Courtesy of the Tacoma Public Library
+  slug: RSO-25
 - template: content-feature
   block: feature-1
   media_alignment: Left
@@ -51,11 +57,6 @@ page_sections:
     The Design Blocks can be used without Forestry but to harness the power
     of Blocks we recommend using <a href="https://forestry.io">Forestry</a>. Once the site is imported you can immediately
     create new sites and make them fully customizable.
-- template: full-width-media-element
-  block: media-1
-  image: "/uploads/2018/06/21/theme.png"
-  caption: All Available Blocks
-  slug: blocks
 - template: detail-content
   block: text-1
   headline: Steps to Build a Site!
