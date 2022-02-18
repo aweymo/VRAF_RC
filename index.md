@@ -27,6 +27,19 @@ page_sections:
   caption: RS0-25 Panorama of group of people at a lake with a man in the background
     climbing a tree. Courtesy of the Tacoma Public Library
   slug: ''
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  content: Through a collaborative effort with Northwest Room librarian and project
+    sponsor Spencer Bowman, we ultimately found that the collection was not so much
+    "dark," as past digitization efforts were scattered, archiving practices were
+    inconsistent, and the inherent nature of Richards' practice created a large amount
+    of material which provided little contextual information for potential users.
+  headline: ''
+  slug: ''
+  media:
+    image: ''
+    alt_text: ''
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in Canada
