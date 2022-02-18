@@ -1,7 +1,7 @@
 ---
 layout: blocks
 title: Andrew Weymouth, 2021-2022 VRAF Grant Project
-date: 
+date: 2022-02-18T08:00:00.000+00:00
 page_sections:
 - template: hero-banner-w-image
   block: hero-2
@@ -218,6 +218,22 @@ page_sections:
     content: The latter format required joining the two images together into a high
       resolution GIF, to recreate the 3D effect one would have originally experienced
       through a custom Kodak viewer.
+- template: 2-column-media-element
+  block: media-2
+  image_1:
+    image: "/uploads/2022/02/18/rss-052-01.gif"
+    caption: ''
+  image_2:
+    image: "/uploads/2022/02/18/rss-046-01.gif"
+    caption: ''
+- template: 2-column-media-element
+  block: media-2
+  image_1:
+    image: "/uploads/2022/02/18/rss-061-01.gif"
+    caption: ''
+  image_2:
+    image: "/uploads/2022/02/18/rss-115-01.gif"
+    caption: ''
 - template: hero-banner-w-image
   block: hero-2
   background_image: "/uploads/2022/02/18/rss-126-01.gif"
@@ -230,14 +246,6 @@ page_sections:
     enabled: false
     url: ''
     button_text: ''
-- template: 2-column-media-element
-  block: media-2
-  image_1:
-    image: "/uploads/2022/02/18/rss-061-01.gif"
-    caption: ''
-  image_2:
-    image: "/uploads/2022/02/18/rss-115-01.gif"
-    caption: ''
 - template: 3-column-text
   block: three-column-1
   col_1:
