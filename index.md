@@ -73,6 +73,21 @@ page_sections:
       in the collection at the start of the project. Nodes represent African American,
       Native American, Japanese American and ethnic communities and are arranged by
       date and address. https://aweymo.github.io/Rep.Network.1/"
+- template: hero-banner-w-image
+  block: hero-2
+  content: Considering the hurdles encountered in this project, we were still able
+    to make an exceptional impact in our original mission statement to surface "significant
+    cultural insights" from the collection that would better represent the history
+    of Tacoma's BIPOC community.
+  headline: Impact
+  background_image: "/uploads/2022/02/18/rso-052-1.jpeg"
+  image:
+    image: "/uploads/2022/02/18/rso-052-1.jpeg"
+    alt_text: ''
+  cta:
+    enabled: false
+    url: ''
+    button_text: ''
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in Canada
