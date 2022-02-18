@@ -100,9 +100,6 @@ page_sections:
     in September.</p><p class="p1">That said, the significance of these photos extend
     beyond the backgrounds of the people occupying the frame and tell a much broader
     story about the evolving social fabric of Tacoma in the twentieth century.</p>
-- template: simple-footer
-  block: footer-1
-  content: Made with ❤︎ in Canada
 - template: 3-column-text
   block: three-column-1
   col_1:
@@ -122,5 +119,8 @@ page_sections:
     content: That said, the significance of these photos extend beyond the backgrounds
       of the people occupying the frame and tell a much broader story about the evolving
       social fabric of Tacoma in the twentieth century.
+- template: simple-footer
+  block: footer-1
+  content: Made with ❤︎ in Canada
 
 ---
