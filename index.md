@@ -26,7 +26,7 @@ page_sections:
   image: "/uploads/2022/02/18/rso-25-1.jpeg"
   caption: RS0-25 Panorama of group of people at a lake with a man in the background
     climbing a tree. Courtesy of the Tacoma Public Library
-  slug: ''
+  slug: RS0-25
 - template: content-feature
   block: feature-1
   media_alignment: Right
@@ -36,7 +36,7 @@ page_sections:
     inconsistent, and the inherent nature of Richards' practice created a large amount
     of material which provided little contextual information for potential users.
   headline: ''
-  slug: ''
+  slug: intro
   media:
     image: ''
     alt_text: ''
