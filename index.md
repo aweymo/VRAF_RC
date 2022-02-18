@@ -81,10 +81,10 @@ page_sections:
       date and address. https://aweymo.github.io/Rep.Network.1/"
 - template: hero-banner-w-image
   block: hero-2
-  content: Considering the hurdles encountered in this project, we were still able
-    to make an exceptional impact in our original mission statement to surface "significant
-    cultural insights" from the collection that would better represent the history
-    of Tacoma's BIPOC community.
+  content: <strong>Considering the hurdles encountered in this project, we were still
+    able to make an exceptional impact in our original mission statement to surface
+    "significant cultural insights" from the collection that would better represent
+    the history of Tacoma's BIPOC community.</strong>
   headline: ''
   image:
     image: ''
