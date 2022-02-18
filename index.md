@@ -46,18 +46,6 @@ page_sections:
   media:
     image: ''
     alt_text: ''
-- template: hero-banner-w-image
-  block: hero-2
-  background_image: "/uploads/2022/02/18/nv1.gif"
-  image:
-    image: ''
-    alt_text: ''
-  headline: ''
-  content: ''
-  cta:
-    enabled: false
-    url: ''
-    button_text: ''
 - template: content-feature
   block: feature-1
   media_alignment: Right
