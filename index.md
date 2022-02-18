@@ -264,6 +264,14 @@ page_sections:
       independent from the context of struggle and racism. The formal dress, ornamental
       arrangements and social ceremonies provide a unique insight into a resilient
       Japanese American culture still thriving in the post-internment Puget Sound.
+- template: 2-column-media-element
+  block: media-2
+  image_1:
+    image: "/uploads/2022/02/18/rss-066-01.gif"
+    caption: ''
+  image_2:
+    image: "/uploads/2022/02/18/rss-111-01.gif"
+    caption: ''
 - template: 1-column-text
   block: one-column-1
   content: Reflecting on this project, I am grateful for the opportunity to interact
@@ -274,17 +282,9 @@ page_sections:
     and hopefully contributing over time to the greater Tacoma community.
   headline: ''
   slug: ''
-- template: 2-column-media-element
-  block: media-2
-  image_1:
-    image: "/uploads/2022/02/18/rss-066-01.gif"
-    caption: ''
-  image_2:
-    image: "/uploads/2022/02/18/rss-111-01.gif"
-    caption: ''
 - template: hero-banner-w-image
   block: hero-2
-  background_image: "/uploads/2022/02/18/rss-111-01.gif"
+  background_image: "/uploads/2022/02/18/rss-084-01.gif"
   image:
     image: ''
     alt_text: ''
