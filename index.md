@@ -56,7 +56,7 @@ page_sections:
     determine the pockets were generally duplicate photos of an item which had already
     been digitized, or an item which held little contextual value for most patrons.
   headline: ''
-  slug: ''
+  slug: vis2
   media:
     image: ''
     alt_text: ''
