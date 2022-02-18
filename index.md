@@ -171,7 +171,7 @@ page_sections:
     image: "/uploads/2022/02/18/rso-039-1.jpeg"
     caption: RSO-39 Courtesy of the Tacoma Public Library
   image_2:
-    image: ''
-    caption: ''
+    image: "/uploads/2022/02/18/rso-040-1.jpeg"
+    caption: RSO-40 Courtesy of the Tacoma Public Library
 
 ---
