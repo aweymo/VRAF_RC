@@ -289,5 +289,8 @@ page_sections:
     enabled: false
     url: ''
     button_text: ''
+- template: simple-footer
+  block: footer-1
+  content: All images courtesy of the Tacoma Public Library<br><br><em>RS0-25<br><br>RSS-51<br><br>J-156-38<br><br>RSO-28<br><br>RSO-40<br><br>RSS-57<br><br>RSS-03<br><br>RSS-12<br><br>RSS-126<br><br></em>RSS-094<br><br>RSS-115<br><br>RSS-066<br><br>RSS-094<br><br>RSS-111<em><br><br><br><br></em>
 
 ---
