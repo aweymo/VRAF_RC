@@ -30,7 +30,7 @@ page_sections:
     the inherent nature of Richards' practice created a large amount of material which
     provided little contextual information for potential users.
   headline: "<strong>In September 2021,</strong>"
-  background_image: ''
+  background_image: "/uploads/2022/02/18/rss-051-01.gif"
   image:
     image: ''
     alt_text: ''
