@@ -60,7 +60,10 @@ page_sections:
   col_2:
     headline: ''
     slug: ''
-    content: ''
+    content: Explore these interactive network visualizations<br><br><a href=".  https://aweymo.gitHub.io/RC.3/"
+      title="Digitized Items">Digitized Items</a><br><a href="https://aweymo.gitHub.io/gaps.6/#"
+      title="Collection Gaps">Collection Gaps</a><br><a href="https://aweymo.github.io/Rep.Network.1/"
+      title="BIPOC Representation Map">BIPOC Representation Map</a>
 - template: detail-content
   block: text-1
   content: <p>Determining this process involved creating visualizations of the items
