@@ -14,9 +14,9 @@ page_sections:
     to 1980. The goal of the grant was to help digitize what was regarded as a "dark
     archive," and focus on better representing Tacoma's historical BIPOC community.
   cta:
-    enabled: true
+    enabled: false
     url: https://github.com/forestryio/ubuild-jekyll
-    button_text: 'See on GitHub '
+    button_text: ''
   image:
     image: "/uploads/2022/02/18/rso-25-1.jpeg"
     alt_text: ''
