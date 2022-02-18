@@ -53,7 +53,7 @@ page_sections:
       records.
 - template: content-feature
   block: feature-1
-  media_alignment: Right
+  media_alignment: Left
   slug: vis.2
   content: Using these guides, I was able to determine the pockets were generally
     duplicate photos of an item which had already been digitized, or an item which
