@@ -46,6 +46,22 @@ page_sections:
   media:
     image: ''
     alt_text: ''
+- template: hero-banner-w-image
+  block: hero-2
+  background_image: "/uploads/2022/02/18/nv1-01.gif"
+  content: Determining this process involved creating visualizations of the items
+    that had been digitized, as well as visualizations of the largest gaps in the
+    collection, to pinpoint where to investigate. Using these guides, I was able to
+    determine the pockets were generally duplicate photos of an item which had already
+    been digitized, or an item which held little contextual value for most patrons.
+  image:
+    image: ''
+    alt_text: ''
+  headline: ''
+  cta:
+    enabled: false
+    url: ''
+    button_text: ''
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2022/02/18/nv1-01.gif"
