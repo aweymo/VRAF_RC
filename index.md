@@ -38,6 +38,25 @@ page_sections:
     enabled: false
     url: ''
     button_text: ''
+- template: 3-column-text
+  block: three-column-1
+  col_1:
+    headline: 'Impact:'
+    content: "<strong>Of the 258 items which were selected to be arranged, digitized
+      and described, 39 represented these communities.</strong>"
+    slug: ''
+  col_2:
+    headline: ''
+    slug: I.2
+    content: "<strong>While this number feels minuscule in comparison with the relative
+      size of the collection, it represents a 60% increase in BIPOC representation
+      from the state of the collection when I began this work in September.</strong>"
+  col_3:
+    headline: ''
+    slug: I.3
+    content: "<strong>That said, the significance of these photos extend beyond the
+      backgrounds of the people occupying the frame and tell a much broader story
+      about the evolving social fabric of Tacoma in the twentieth century.</strong>"
 - template: 2-column-media-element
   block: media-2
   image_1:
@@ -63,25 +82,6 @@ page_sections:
       title="Digitized Items">Digitized Items</a><br><a href="https://aweymo.gitHub.io/gaps.6/#"
       title="Collection Gaps">Collection Gaps</a><br><a href="https://aweymo.github.io/Rep.Network.1/"
       title="BIPOC Representation Map">BIPOC Representation Map</a>
-- template: 3-column-text
-  block: three-column-1
-  col_1:
-    headline: 'Impact:'
-    content: "<strong>Of the 258 items which were selected to be arranged, digitized
-      and described, 39 represented these communities.</strong>"
-    slug: ''
-  col_2:
-    headline: ''
-    slug: I.2
-    content: "<strong>While this number feels minuscule in comparison with the relative
-      size of the collection, it represents a 60% increase in BIPOC representation
-      from the state of the collection when I began this work in September.</strong>"
-  col_3:
-    headline: ''
-    slug: I.3
-    content: "<strong>That said, the significance of these photos extend beyond the
-      backgrounds of the people occupying the frame and tell a much broader story
-      about the evolving social fabric of Tacoma in the twentieth century.</strong>"
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2022/02/18/j-156-38032-1.jpeg"
