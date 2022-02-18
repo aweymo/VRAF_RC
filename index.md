@@ -1,7 +1,7 @@
 ---
 layout: blocks
 title: Andrew Weymouth, 2021-2022 VRAF Grant Project
-date: 2022-02-18 08:00:00 +0000
+date: 
 page_sections:
 - template: hero-banner-w-image
   block: hero-2
