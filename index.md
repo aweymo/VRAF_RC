@@ -214,7 +214,8 @@ page_sections:
       with North Pacific Plywood Inc. building and water tower in the background.
       Courtesy of the Tacoma Public Library '
   image_2:
-    image: ''
-    caption: ''
+    image: "/uploads/2022/02/18/rss-051-01.gif"
+    caption: RSS-51 Tacoma Public Utilities float with Daffodil Queen waving at the
+      1954 Daffodil Parade. Courtesy of the Tacoma Public Library
 
 ---
