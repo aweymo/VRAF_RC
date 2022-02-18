@@ -41,11 +41,9 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  content: Determining this process involved creating visualizations of the items
+  content: 'Determining this process involved creating visualizations of the items
     that had been digitized, as well as visualizations of the largest gaps in the
-    collection, to pinpoint where to investigate. Using these guides, I was able to
-    determine the pockets were generally duplicate photos of an item which had already
-    been digitized, or an item which held little contextual value for most patrons.
+    collection, to pinpoint where to investigate. '
   slug: vis.t
   headline: ''
   media:
