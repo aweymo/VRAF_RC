@@ -57,9 +57,9 @@ page_sections:
   col_2:
     headline: ''
     slug: ''
-    content: I was able to determine the pockets were generally duplicate photos of
-      an item which had already been digitized, or an item which held little contextual
-      value for most patrons.
+    content: Using these guides, I was able to determine the gaps were generally duplicate
+      photos of an item which had already been digitized, or an item which held little
+      contextual value for most patrons.
 - template: detail-content
   block: text-1
   content: <p>To explore these interactive network visualizations:</p><p></p><p><a
